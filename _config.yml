@@ -1,0 +1,24 @@
+title: "Philippe Sarotte"
+description: "PhD student in Probability"
+
+author:
+  name: "Philippe Sarotte"
+  position: "PhD student in Probability"
+  university: "INRIA"
+  laboratory: "MATHNET"
+  email: "philippe.sarotte@inria.fr"
+
+github_url: "https://github.com/Philippe-Sarotte"
+scholar_url: "https://scholar.google.com/citations?user=xgLMY_UAAAAJ&hl=fr"
+linkedin_url: "https://www.linkedin.com/in/philippe-sarotte-7b5921240/"
+hal_url: "https://hal.science/search/index/?q=*&authFullName_s=Philippe%20Sarotte"
+
+url: "https://philippe-sarotte.github.io/"
+baseurl: ""
+
+markdown: kramdown
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock

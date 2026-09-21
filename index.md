@@ -1,0 +1,74 @@
+---
+layout: default
+title: About me
+description: Personal academic page of Philippe Sarotte.
+permalink: /
+---
+
+<div class="about-grid">
+
+<img
+    class="profile-picture"
+    src="{{ '/assets/images/profile.jpg' | relative_url }}"
+    alt="Portrait of {{ site.author.name }}"
+>
+
+<div class="about-text">
+
+# About me
+
+I am a PhD student in probability at **{{ site.author.university }}**,
+affiliated with **{{ site.author.laboratory }}**.
+
+My research interests include stochastic processes, interacting particle
+systems, random graphs and statistical mechanics.
+
+I am currently working on ...
+
+<div class="profile-links">
+
+<a href="{{ site.github_url }}" target="_blank" rel="noopener noreferrer">
+    GitHub
+</a>
+
+<a href="{{ site.scholar_url }}" target="_blank" rel="noopener noreferrer">
+    Google Scholar
+</a>
+
+<a href="{{ site.linkedin_url }}" target="_blank" rel="noopener noreferrer">
+    LinkedIn
+</a>
+
+<a href="{{ site.orcid_url }}" target="_blank" rel="noopener noreferrer">
+    ORCID
+</a>
+
+<a href="{{ '/assets/files/cv.pdf' | relative_url }}" target="_blank">
+    CV
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+---
+
+## Research interests
+
+- Probability theory
+- Stochastic processes
+- Interacting particle systems
+- Information Theory
+- Performance evalutation of Networks
+
+
+---
+
+## Contact
+
+**Email:** [{{ site.author.email }}](mailto:{{ site.author.email }})
+
+**Institution:** {{ site.author.laboratory }}, {{ site.author.university }}
+

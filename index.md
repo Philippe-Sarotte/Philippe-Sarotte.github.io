@@ -9,7 +9,7 @@ permalink: /
 
 <img
     class="profile-picture"
-    src="{{ '/assets/images/profile.jpg' | relative_url }}"
+    src="{{ '/assets/images/test4.jpg' | relative_url }}"
     alt="Portrait of {{ site.author.name }}"
 >
 
@@ -60,6 +60,7 @@ systems, Point processes, Network modelisation.
 - Probability theory
 - Stochastic processes
 - Interacting particle systems
+- Queueing Theory
 - Information Theory
 - Performance evalutation of Networks
 

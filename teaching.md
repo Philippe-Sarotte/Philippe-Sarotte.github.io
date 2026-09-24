@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Teaching
-description: Teaching activities of Ton Prénom Ton Nom.
+description: Teaching activities of Philippe Sarotte.
 permalink: /teaching/
 ---
 
@@ -9,32 +9,22 @@ permalink: /teaching/
 
 ## 2026–2027
 
-### Course name
+### Probability II — L3
 
-**Teaching assistant**, undergraduate or graduate level  
-University Name
+**Teaching assistant**  
+Undergraduate level  
+Sorbonne Université
 
-Topics:
+### Oral examinations — MPSI
 
-- Conditional probabilities
-- Random variables
-- Law of large numbers
-- Central limit theorem
-
-[Course material]({{ '/assets/files/teaching/course-notes.pdf' | relative_url }}){:target="_blank"}
-
----
+**Oral examiner**  
+Lycée Chaptal
 
 ## 2025–2026
 
-### Probability and Statistics
+### Numerical Analysis — L3
 
-**Teaching assistant**, undergraduate level  
-University Name
+**Teaching assistant**  
+Undergraduate level  
+Sorbonne Université
 
-Responsibilities:
-
-- Tutorial sessions
-- Exercise preparation
-- Office hours
-- Exam grading

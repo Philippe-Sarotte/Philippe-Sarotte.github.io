@@ -4,8 +4,8 @@ description: "PhD student in Probability"
 author:
   name: "Philippe Sarotte"
   position: "PhD student in Probability"
-  university: INRIA
-  laboratory: MATHNET
+  university: "INRIA"
+  laboratory: "MATHNET"
   email: "philippe.sarotte@inria.fr"
 
 github_url: "https://github.com/Philippe-Sarotte"

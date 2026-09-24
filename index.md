@@ -15,10 +15,10 @@ permalink: /
 
 <div class="about-text">
 
-#About me
+# About me
 
-I am a PhD student in probability at **{{ site.author.university }}**,
-affiliated with **{{ site.author.laboratory }}** under the supervision of Professor François Baccelli and co-supervised by Dr Nahuel Soprano-Loto.
+I am a PhD student in probability at **[{{ site.author.university }}]**,
+affiliated with **[{{ site.author.laboratory }}]** under the supervision of Professor François Baccelli and co-supervised by Dr Nahuel Soprano-Loto.
 
 My research interests include stochastic processes, interacting particle
 systems, Queueing Theory, Point processes, Wireless Network modelisation.

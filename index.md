@@ -5,7 +5,7 @@ description: Personal academic page of Philippe Sarotte.
 permalink: /
 ---
 
-<div class="about-grid">
+<div class="about-grid" markdown="1">
 
 <img
     class="profile-picture"
@@ -13,44 +13,26 @@ permalink: /
     alt="Portrait of {{ site.author.name }}"
 >
 
-<div class="about-text">
+<div class="about-text" markdown="1">
 
 # About me
 
 I am a PhD student in probability at **{{ site.author.university }}**,
-affiliated with **{{ site.author.laboratory }}**.
+affiliated with **{{ site.author.laboratory }}** Under the supervision of Professor François Baccelli and co-supervised by Dr Nahuel Soprano-Loto
 
 My research interests include stochastic processes, interacting particle
-systems, Point processes, Network modelisation.
-
-
+systems, queueing theory, point processes, and wireless network modeling.
 
 <div class="profile-links">
 
-<a href="{{ site.github_url }}" target="_blank" rel="noopener noreferrer">
-    GitHub
-</a>
-
-<a href="{{ site.scholar_url }}" target="_blank" rel="noopener noreferrer">
-    Google Scholar
-</a>
-
-<a href="{{ site.linkedin_url }}" target="_blank" rel="noopener noreferrer">
-    LinkedIn
-</a>
-
-<a href="{{ site.orcid_url }}" target="_blank" rel="noopener noreferrer">
-    ORCID
-</a>
-
-<a href="{{ '/assets/files/cv.pdf' | relative_url }}" target="_blank">
-    CV
-</a>
+<a href="{{ site.github_url }}" target="_blank" rel="noopener noreferrer">GitHub</a>
+<a href="{{ site.scholar_url }}" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+<a href="{{ site.linkedin_url }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+<a href="{{ site.orcid_url }}" target="_blank" rel="noopener noreferrer">ORCID</a>
 
 </div>
 
 </div>
-
 </div>
 
 ---
@@ -60,10 +42,9 @@ systems, Point processes, Network modelisation.
 - Probability theory
 - Stochastic processes
 - Interacting particle systems
-- Queueing Theory
-- Information Theory
-- Performance evalutation of Networks
-
+- Queueing theory
+- Information theory
+- Performance evaluation of wireless networks
 
 ---
 

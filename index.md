@@ -43,9 +43,6 @@ systems, Queueing Theory, Point processes, Wireless Network modelisation.
     ORCID
 </a>
 
-<a href="{{ '/assets/files/cv.pdf' | relative_url }}" target="_blank">
-    CV
-</a>
 
 </div>
 

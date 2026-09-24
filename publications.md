@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Publications & Preprints
-description: Publications and preprints by Ton Prénom Ton Nom.
+description: Publications and preprints by Philippe Sarotte.
 permalink: /publications/
 ---
 
@@ -11,15 +11,15 @@ permalink: /publications/
 
 <div class="publication">
 
-### Title of the preprint
+### Interference Queueing Networks: A Replica Mean-Field Approach in the Symmetric Setting
 
-**Ton Prénom Ton Nom**, Coauthor Name
+Philippe Sarotte, Nahuel Soprano-Loto, François Baccelli
 
-Preprint, 2026.
+*Preprint*, 2026.
 
-[arXiv](https://arxiv.org/abs/0000.00000){:target="_blank"}
-[PDF]({{ '/assets/files/papers/preprint.pdf' | relative_url }}){:target="_blank"}
-[Code](https://github.com/TON-IDENTIFIANT/REPOSITORY){:target="_blank"}
+[arXiv:2606.13264](https://arxiv.org/abs/2606.13264){:target="_blank" rel="noopener"}
+·
+[Code](https://github.com/Philippe-Sarotte/Interference-Queueing-Networks-A-Replica-Mean-Field-Approach-in-the-Symmetric-Setting){:target="_blank" rel="noopener"}
 
 </div>
 
@@ -29,14 +29,12 @@ Preprint, 2026.
 
 <div class="publication">
 
-### Title of the published paper
+### Spectrum Coexistence between Passive Satellites and Terrestrial Network via Chernoff Bounds
 
-**Ton Prénom Ton Nom**, Coauthor Name
+Philippe Sarotte, Nicholas R. Olson, Theodore S. Rappaport, Jeffrey G. Andrews
 
-*Name of the Journal*, volume, pages, 2025.
+*IEEE International Conference on Communications (ICC)*, Montreal, QC, Canada, 2025, pp. 1231–1236.
 
-[Journal](https://doi.org/DOI-DE-LARTICLE){:target="_blank"}
-[arXiv](https://arxiv.org/abs/0000.00000){:target="_blank"}
-[Code](https://github.com/TON-IDENTIFIANT/REPOSITORY){:target="_blank"}
+[DOI: 10.1109/ICC52391.2025.11161076](https://doi.org/10.1109/ICC52391.2025.11161076){:target="_blank" rel="noopener"}
 
 </div>

@@ -21,9 +21,9 @@ I am a PhD student in probability at **{{ site.author.university }}**,
 affiliated with **{{ site.author.laboratory }}**.
 
 My research interests include stochastic processes, interacting particle
-systems, random graphs and statistical mechanics.
+systems, Point processes, Network modelisation.
 
-I am currently working on ...
+
 
 <div class="profile-links">
 

@@ -37,4 +37,6 @@ Philippe Sarotte, Nicholas R. Olson, Theodore S. Rappaport, Jeffrey G. Andrews
 
 [DOI: 10.1109/ICC52391.2025.11161076](https://doi.org/10.1109/ICC52391.2025.11161076){:target="_blank" rel="noopener"}
 
+[Erratum](/files/erratum.pdf){:target="_blank" rel="noopener"}
+
 </div>

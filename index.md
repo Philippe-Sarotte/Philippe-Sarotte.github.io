@@ -70,5 +70,3 @@ permalink: /
 **Email:** [{{ site.author.email }}](mailto:{{ site.author.email }})
 
 **Institution:** {{ site.author.laboratory }}, {{ site.author.university }}
-
-**Institution:** {{ site.author.laboratory }}, {{ site.author.university }}

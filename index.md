@@ -43,9 +43,7 @@ permalink: /
         LinkedIn
       </a>
 
-      <a href="{{ site.orcid_url }}" target="_blank" rel="noopener noreferrer">
-        ORCID
-      </a>
+   
     </div>
 
   </div>
